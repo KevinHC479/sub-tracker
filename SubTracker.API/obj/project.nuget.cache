@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "V406sNb7R2Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\52332\\Desktop\\sub-tracker\\sub-tracker\\SubTracker.API\\SubTracker.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\52332\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "C:\\Users\\52332\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
